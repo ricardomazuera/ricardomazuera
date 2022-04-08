@@ -8,10 +8,10 @@
 
 #### Herramientas con las que trabajo
 
-NextJS
-React
-JavaScript
-Python
+- NextJS
+- React
+- JavaScript
+- Python
 
 ------------
 
