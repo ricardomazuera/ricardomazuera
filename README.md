@@ -22,3 +22,8 @@ Python
 [LinkedIn](https://www.linkedin.com/in/ricardomazuera/?locale=en_US "LinkedIn") 💼
 [Website](https://ricardomazuera.com "Website") 🌍
 
+
+------------
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ricardomazuera&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
