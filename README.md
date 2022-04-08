@@ -17,10 +17,10 @@
 
 
 ####  Puedes encontrarme en:
-[Twitter](https://twitter.com/ricardomazuera_ "Twitter") 🐦
-[Instagram](https://www.instagram.com/ricardomazuera_/ "Instagram") 📸
-[LinkedIn](https://www.linkedin.com/in/ricardomazuera/?locale=en_US "LinkedIn") 💼
-[Website](https://ricardomazuera.com "Website") 🌍
+- [Twitter](https://twitter.com/ricardomazuera_ "Twitter") 🐦
+- [Instagram](https://www.instagram.com/ricardomazuera_/ "Instagram") 📸
+- [LinkedIn](https://www.linkedin.com/in/ricardomazuera/?locale=en_US "LinkedIn") 💼
+- [Website](https://ricardomazuera.com "Website") 🌍
 
 
 ------------
