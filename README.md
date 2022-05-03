@@ -4,13 +4,15 @@
 
 #### ¿Qué hago?
 
-🖥 Soy un desarrollador Freelance
+🖥 Soy un desarrollador buscando ayudar al mundo por medio del software.
 
 #### Herramientas con las que trabajo
 
 - NextJS
 - React
 - JavaScript
+- HTML5
+- CSS3
 - Python
 
 ------------
