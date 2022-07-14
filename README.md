@@ -1,6 +1,6 @@
 ##  Mi nombre es Ricardo Mazuera
 
-**Soy un Frontend Developer de Colombia 🇨🇴**
+**Soy un Software Engineer apasionado por el mundo del Machine Learning, actualmente en Colombia 🇨🇴**
 
 #### ¿Qué hago?
 
@@ -8,12 +8,14 @@
 
 #### Herramientas con las que trabajo
 
+- Python
+- SQL
+- AWS RedShift
 - NextJS
-- React
-- JavaScript
+- ReactJS
+- JavaScript ES6+
 - HTML5
 - CSS3
-- Python
 
 ------------
 
