@@ -1,17 +1,13 @@
-##  Mi nombre es Ricardo Mazuera
+##  Hi, I'm Ricardo Mazuera
 
-**Soy un Software Engineer apasionado por el mundo del Machine Learning, actualmente en Colombia 🇨🇴**
+**I'm Ricardo. A Python Developer, lover of Backend with Python and Machine Learning. 🇨🇴**
 
-#### ¿Qué hago?
-
-🖥 Soy un desarrollador buscando ayudar al mundo por medio del software.
-
-#### Herramientas con las que trabajo
+#### Skills
 
 - Python
+- Django
+- AWS 
 - SQL
-- AWS RedShift
-- NextJS
 - ReactJS
 - JavaScript ES6+
 - HTML5
@@ -20,10 +16,10 @@
 ------------
 
 
-####  Puedes encontrarme en:
+####  You can find me:
 - [Twitter](https://twitter.com/ricardomazuera_ "Twitter") 🐦
+- [LinkedIn](https://www.linkedin.com/in/ricardomazuera/ "LinkedIn") 💼
 - [Instagram](https://www.instagram.com/ricardomazuera_/ "Instagram") 📸
-- [LinkedIn](https://www.linkedin.com/in/ricardomazuera/?locale=en_US "LinkedIn") 💼
 - [Website](https://ricardomazuera.com "Website") 🌍
 
 
