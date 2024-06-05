@@ -5,13 +5,11 @@
 #### Skills
 
 - Python
-- Django
+- Go
+- FastApi
 - AWS 
 - SQL
-- ReactJS
 - JavaScript ES6+
-- HTML5
-- CSS3
 
 ------------
 
