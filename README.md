@@ -1,6 +1,6 @@
 ##  Hi, I'm Ricardo Mazuera 👨🏽‍💻
 
-**A Python Developer 🐍, lover of Backend with Python and Machine Learning.**
+**A Software Engineer 🐍, lover of Backend with Python and Go and Machine Learning.**
 
 #### Skills
 
