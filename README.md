@@ -1,27 +1,15 @@
 ##  Hi, I'm Ricardo Mazuera 👨🏽‍💻
 
-**A Software Engineer 🐍, lover of Backend with Python and Go and Machine Learning.**
+- 👨🏽‍💻 Working as Software Engineer in a Fintech Unicorn.
+- 🌐 Learning Web3 and applying it in Open Source Software.
 
-#### Skills
-
-- Python
-- Go
-- FastApi
-- AWS 
-- SQL
-- JavaScript ES6+
-
-------------
-
-
-####  You can find me:
+##  Find me here:
 - [Twitter](https://twitter.com/ricardomazuera_ "Twitter") 🐦
 - [LinkedIn](https://www.linkedin.com/in/ricardomazuera/ "LinkedIn") 💼
 - [Instagram](https://www.instagram.com/ricardomazuera_/ "Instagram") 📸
 - [Website](https://ricardomazuera.com "Website") 🌍
 
+## Stats 
 
-------------
+[![GitHub Streak](https://streak-stats.demolab.com?user=ricardomazuera&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ricardomazuera&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
