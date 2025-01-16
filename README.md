@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍💻 Working as a Senior Software Engineer in a Fintech Unicorn.<br>🧠 Learning to be a Smart Contract Auditor.<br>
+👨🏽‍💻 Working as a Senior Software Engineer in a Fintech Unicorn.<br>🧠 Learning to be a Security Researcher 🕵🏽<br>
 
 [![](https://visitcount.itsvg.in/api?id=ricardomazuera&icon=0&color=12)](https://visitcount.itsvg.in)
 
